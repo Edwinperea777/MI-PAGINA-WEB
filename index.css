@@ -1,0 +1,18 @@
+table, tr, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+section{border: 1px solid black;
+margin: 5px;
+}
+#encabezado{
+    text-align: center;
+    background-color: blueviolet;
+    border: 1px solid black;
+}
+.color{
+    background-color: blanchedalmond;
+}
+body{
+    background-color: blue;
+}
